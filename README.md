@@ -1,6 +1,6 @@
 # leetcode
 
-一些leetcode题目整理，持续更新
+一些leetcode题目整理
 
 主要内容：
 
